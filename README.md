@@ -2,8 +2,8 @@
 
 | Проект                          | Задача проекта                                                 | Технологии|
 |:------------------------------|:-------------------------------------------------------------|:--------|
-| 1. [Предобработка данных](https://github.com/DanielChertykovtsev/YandexPracticum/tree/main/Проект%202%20Исследование%20надежности%20заемщиков)| Установить влияет ли семейное положение и количество детей клиента на факт погашения кредита в срок.| pandas, pymystem3|
-| 2. [Исследовательский анализ](https://github.com/DanielChertykovtsev/YandexPracticum/tree/main/Проект%203%20Анализ%20рынка%20недвижимости)| Установить параметры для определения рыночной стоимости объектов недвижимости.| pandas, numpy, matplotlib, seaborn, plotly|
+| 1. [Предобработка данных](https://github.com/DanielChertykovtsev/YandexPracticum/tree/main/Проект%201%20Исследование%20надежности%20заемщиков)| Установить влияет ли семейное положение и количество детей клиента на факт погашения кредита в срок.| pandas, pymystem3|
+| 2. [Исследовательский анализ](https://github.com/DanielChertykovtsev/YandexPracticum/tree/main/Проект%202%20Анализ%20рынка%20недвижимости)| Установить параметры для определения рыночной стоимости объектов недвижимости.| pandas, numpy, matplotlib, seaborn, plotly|
 | 3. [Статистический анализ](https://github.com/DanielChertykovtsev/YandexPracticum/tree/main/Проект%204%20Перспективный%20тариф%20для%20оператора)| Необходимо сделать предварительный анализ тарифов оператора "Мегалайн" на небольшой выборке клиентов.| pandas, numpy, matplotlib, seaborn, plotly scipy|
 | 4. [Анализ рынка компьютерных игр](https://github.com/DanielChertykovtsev/YandexPracticum/tree/main/Проект%205%20Определение%20критериев%20успешности%20компьютерных%20игр)| Выявить определяющие успешность игры закономерности.| pandas, numpy, matplotlib, scipy, seaborn, plotly|
 | 5. [Введение в машинное обучение](https://github.com/DanielChertykovtsev/YandexPracticum/tree/main/Проект%206%20Рекомендация%20тарифов)| Построить модель для задачи классификации, которая выберет подходящий тариф для клиентов мобильного оператора. |pandas, numpy, sklearn|
